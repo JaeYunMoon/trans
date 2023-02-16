@@ -1,0 +1,5 @@
+******************************
+Namespace(box3DPX=False, concat=False, config='custom/coco/intflow.yaml', custom=True, custom_label=True, data_path='./data/datasets/', keypoint2d=True, keypoint3d=False, pdf=True, rbox=False, seg_bool=False)
+******************************
+{'CATEGORIES': [{'supercategory': 'animal', 'id': 0, 'name': 'Jeju'}, {'supercategory': 'animal', 'id': 1, 'name': 'Duroc'}, {'supercategory': 'animal', 'id': 2, 'name': 'White'}, {'supercategory': 'animal', 'id': 3, 'name': 'Birkshire'}], 'SUPERCATEGORY': {'ANIMAL': {'keypoints': ['nose', 'left_ear', 'right_ear', 'neck', 'left_front_shoulder', 'right_front_shoulder', 'bareback', 'left_rear_shoulder', 'right_rear_shoulder', 'tail_start_point', 'tail_end_point', 'left_front_ankle', 'right_front_ankle', 'left_rear_ankle', 'right_rear_ankle'], 'skeleton': [[1, 4], [2, 4], [3, 4], [4, 5], [4, 6], [4, 7], [5, 12], [6, 13], [7, 10], [8, 10], [9, 10], [10, 11], [8, 14], [9, 15]]}}, 'ReID': './custom/custom_info/intflow-pig.yaml'}
+******************************

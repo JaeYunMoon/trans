@@ -1,0 +1,7 @@
+{
+  reid : {
+    small : 0, 
+    med : 1,
+    big : 2
+  }
+}

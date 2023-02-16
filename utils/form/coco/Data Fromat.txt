@@ -1,0 +1,34 @@
+
+{
+    "info" : info,
+    "images": [image],
+    "annotations": [annotation],
+    "licenses": [license],
+}
+
+info{
+    "year": int,
+    "version": str,
+    "description": str,
+    "contributor": str,
+    "url": str,
+    "date_created": str,
+}
+
+image{
+    "id" : int,
+    "width" : int,
+    "height" : int,
+    "file_name" : str,
+    "license" : int,
+    "flickr_url" : str,
+    "coco_url" : str,
+    "date_created": str,
+}
+
+licenses{
+    "id": int,
+    "name": str,
+    "url": str
+}
+

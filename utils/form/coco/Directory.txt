@@ -1,0 +1,20 @@
+
+
+┌─intflow
+│      ├─ Annotation
+│      │      └─Annotation.pdf
+│      │
+│      ├─ Image
+│      │      ├─20230202-124307.354725.jpg
+│      │      ├─...jpg
+│      │      └─...jpg
+│      │
+│      ├─ Label
+│      │      └─intflow-coco.json
+│      │
+│      ├─ Segmentation
+│      │      ├─20230202-124307.354725.png
+│      │      ├─...png
+└─  └─ └─...png
+
+

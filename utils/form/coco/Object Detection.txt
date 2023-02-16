@@ -1,0 +1,22 @@
+
+
+annotation{
+    "id": int,
+    "image_id": int,
+    "category_id": int,
+    "area": float,
+    "bbox": [x,y,width,height],
+    "keypoints": [x1,y1,z1,...],
+    "num_keypoints": int,
+    "iscrowd": 0 or 1,
+}
+
+categories[{
+    "id":int,
+    "name": str,
+    "supercategory": str,
+    "keypoints":[str],
+    "skeleton":[edge],
+}]
+
+
